@@ -7,10 +7,19 @@
 }
 
 .slideshow-elements{
+  
+
+}
+
+.slideshow-element {
   text-align: center;
+  position: absolute;
 }
 
 .slideshow-element i,h2{
   font-size: 10rem;
   color: coral;
 }
+
+
+/* start from 12:00 */
