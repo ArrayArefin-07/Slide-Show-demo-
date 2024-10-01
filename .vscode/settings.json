@@ -1,4 +1,5 @@
 {
   "workbench.colorTheme": "Solarized Dark",
-  "workbench.preferredHighContrastColorTheme": "Default High Contrast"
+  "workbench.preferredHighContrastColorTheme": "Default High Contrast",
+  "liveServer.settings.port": 5501
 }
